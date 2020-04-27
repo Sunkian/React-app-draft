@@ -1,10 +1,17 @@
-.Person{
-    width: 60%;
-    margin: 16px auto;
-    border: 1px solid darkblue;
-    box-shadow: 0 2px 3px cornflowerblue;
-    padding: 16px;
-    text-align: center;
-    font-family: "Apple SD Gothic Neo";
+/*.Person{*/
+/*    width: 60%;*/
+/*    margin: 16px auto;*/
+/*    border: 1px solid darkblue;*/
+/*    box-shadow: 0 2px 3px cornflowerblue;*/
+/*    padding: 16px;*/
+/*    text-align: center;*/
+/*    font-family: "Apple SD Gothic Neo";*/
 
-}
+/*}*/
+
+/*@media (min-width: 500px) { */
+/*    .Person {*/
+/*        width: 450px;*/
+/*    }*/
+/*    */
+/*}*/
